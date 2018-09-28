@@ -1,0 +1,167 @@
+{
+	"questions": [
+		{
+			"id": 108,
+			"difficulty": 0,
+			"text": "What is the main feature of event-based architecture?",
+			"isMultipleChoice": true,
+			"team": "crocodile",
+			"answers": [
+				{
+					"text": "Suitable for a systems dealing with many events",
+					"isCorrect": true
+				},
+				{
+					"text": "Suitable for local system",
+					"isCorrect": true
+				},
+				{
+					"text": "Suitable for a system that provide many services",
+					"isCorrect": false
+				}
+			],
+			"correctanswersIndex": [
+				0,
+				1
+			],
+			"tags": [
+				"SoftwareArchitecture"
+			]
+		},
+		{
+			"id": 66,
+			"difficulty": 1,
+			"text": "We use private cloud",
+			"isMultipleChoice": false,
+			"team": "crocodile",
+			"answers": [
+				{
+					"text": "In case of sensitive data",
+					"isCorrect": true
+				},
+				{
+					"text": "Private cloud is good in all cases",
+					"isCorrect": false
+				},
+				{
+					"text": "For data that exposed to the world",
+					"isCorrect": false
+				}
+			],
+			"correctanswersIndex": [
+				0
+			],
+			"tags": [
+				"SOAandCloud"
+			]
+		},
+		{
+			"id": 90,
+			"difficulty": 2,
+			"text": "What included in software lifecycle",
+			"isMultipleChoice": false,
+			"team": "crocodile",
+			"answers": [
+				{
+					"text": "Development, requirements, testing, assimilation ",
+					"isCorrect": true
+				},
+				{
+					"text": "Development, requirements and assimilation",
+					"isCorrect": false
+				},
+				{
+					"text": "Development, requirements and testing",
+					"isCorrect": false
+				}
+			],
+			"correctanswersIndex": [
+				0
+			],
+			"tags": [
+				"SoftwareTesting"
+			]
+		},
+		{
+			"id": 70,
+			"difficulty": 0,
+			"text": "What is the design pattern that allows one show to a specific object",
+			"isMultipleChoice": false,
+			"team": "crocodile",
+			"answers": [
+				{
+					"text": "Singleton",
+					"isCorrect": true
+				},
+				{
+					"text": "Factory",
+					"isCorrect": false
+				},
+				{
+					"text": "Memento",
+					"isCorrect": false
+				}
+			],
+			"correctanswersIndex": [
+				0
+			],
+			"tags": [
+				"DesignPatterns"
+			]
+		},
+		{
+			"id": 19,
+			"difficulty": 0,
+			"text": "What is the difference between MVC and MVP",
+			"isMultipleChoice": false,
+			"team": "crocodile",
+			"answers": [
+				{
+					"text": "The controller degenerated in MVP",
+					"isCorrect": true
+				},
+				{
+					"text": "The controller degenerated in MVC",
+					"isCorrect": false
+				},
+				{
+					"text": "They are the same",
+					"isCorrect": false
+				}
+			],
+			"correctanswersIndex": [
+				0
+			],
+			"tags": [
+				"SoftwareArchitecture"
+			]
+		},
+		{
+			"id": 60,
+			"difficulty": 0,
+			"text": "What is the main advantage of the Agile",
+			"isMultipleChoice": false,
+			"team": "crocodile",
+			"answers": [
+				{
+					"text": "Allows tailored development to the customer",
+					"isCorrect": true
+				},
+				{
+					"text": "There is no advantage",
+					"isCorrect": false
+				},
+				{
+					"text": "Allows development driven testing",
+					"isCorrect": false
+				}
+			],
+			"correctanswersIndex": [
+				0
+			],
+			"tags": [
+				"Agile"
+			]
+		}
+	]
+}
